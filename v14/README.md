@@ -1,7 +1,5 @@
 # Hybrid QKD-PQC Security Framework for IoT Networks over RAN
 
-## Final Year Project — Electrical Engineering
-
 ### Overview
 A simulation-based hybrid security framework combining:
 - **BB84 Quantum Key Distribution (QKD)** — eavesdropping detection
@@ -45,14 +43,7 @@ How can a hybrid QKD-PQC framework provide defense-in-depth security
 for IoT networks over RAN, achieving quantum-safe encryption and
 active eavesdropping detection while maintaining practical deployability?
 
-### Team
-- Supervisor: [Name]
-- University: [Name]
-- Semester: 7
-
----
-
-## Recent Additions (v2 — Supervisor Feedback)
+## Recent Additions 
 
 ### New Modules
 | File | Description |
